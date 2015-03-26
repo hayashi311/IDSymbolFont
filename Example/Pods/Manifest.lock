@@ -1,0 +1,18 @@
+PODS:
+  - IDSymbolFont (0.1.0):
+    - IDSymbolFont/Core (= 0.1.0)
+    - IDSymbolFont/UI (= 0.1.0)
+  - IDSymbolFont/Core (0.1.0)
+  - IDSymbolFont/UI (0.1.0)
+
+DEPENDENCIES:
+  - IDSymbolFont (from `../`)
+
+EXTERNAL SOURCES:
+  IDSymbolFont:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IDSymbolFont: ea13d72c6609d465604bb3c707f4f82eefbf9625
+
+COCOAPODS: 0.36.0

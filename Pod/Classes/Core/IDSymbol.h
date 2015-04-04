@@ -6,7 +6,8 @@
 #import <Foundation/Foundation.h>
 
 extern const struct IDSymbol {
-__unsafe_unretained NSString *const Gun;
+__unsafe_unretained NSString *const Fingerprint;
+    __unsafe_unretained NSString *const Gun;
     __unsafe_unretained NSString *const Inbox;
     __unsafe_unretained NSString *const Smile;
     

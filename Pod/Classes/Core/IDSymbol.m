@@ -6,6 +6,7 @@
 #import "IDSymbol.h"
 
 const struct IDSymbol IDSymbol = {
+        .Fingerprint = @"fingerprint",
         .Gun = @"gun",
         .Inbox = @"inbox",
         .Smile = @"smile",
